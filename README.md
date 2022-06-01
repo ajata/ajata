@@ -2,7 +2,7 @@
 - 👀 I’m interested in front end development
 - 🌱 I’m currently learning react and adobe lightroom/GIMP
 - 💞️ I’m looking to collaborate on any UI based projects
-- 📫 How to reach me ...
+
 
 <!---
 ajata/ajata is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
