@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ajata
 - 👀 I’m interested in front end development
-- 🌱 I’m currently learning react and adobe lightroom/GIMP
+- 🌱 I’m currently experimenting  and learning adobe lightroom/GIMP
 - 💞️ I’m looking to collaborate on any UI based projects
 
 
